@@ -1,7 +1,6 @@
-.body{font-family: 'Montserrat', sans-serif;
+body{font-family: 'Montserrat', sans-serif;
     background-color: #E5E5E5;
     display: flex;
-    margin: 0;
 }
 
 /* main styles */
@@ -10,6 +9,7 @@
     flex-direction: row-reverse;
     justify-content: center;
     margin: 0 auto;
+    width: 1043px;
     }
 
 /* main-content-styles */
