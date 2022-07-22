@@ -1,10 +1,12 @@
 .body{font-family: 'Montserrat', sans-serif;
     background-color: #E5E5E5;
+    display: flex;
+    margin: 0;
 }
 
 /* main styles */
 .main{
-    display: flex;
+    display: grid;
     flex-direction: row-reverse;
     justify-content: center;
     margin: 0 auto;
